@@ -1,0 +1,4 @@
+mov(i) 10 -> num1;
+add 2 -> 3 => num2;
+out -> num1;
+out -> num2;
